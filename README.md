@@ -19,7 +19,7 @@ Portfolio
   </header>
 
   <section id="about">
-    <img src="profile.jpg" alt="Joshua's Profile Photo" class="profile" />
+    <img src="IMG_20250120_211942_163.webp" alt="Joshua's Profile Photo" class="profile" />
     <div>
       <h2>About Me</h2>
       <p>
