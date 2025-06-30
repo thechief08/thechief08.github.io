@@ -5,7 +5,9 @@ Portfolio
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
   <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
   <header>
@@ -23,9 +25,9 @@ Portfolio
     <div>
       <h2>About Me</h2>
       <p>
-        I’m a passionate video editor. I currently completed my masters in Journalism and mass communication at central university of Odisha.
-        I bring stories to life through seamless transitions, rhythm, and creativity.
-        I believe video is the most powerful way to inspire and engage audiences.
+        I’m a passionate video editor. I recently completed my master's in Journalism and Mass Communication
+        at the Central University of Odisha. I bring stories to life through seamless transitions, rhythm,
+        and creativity. I believe video is the most powerful way to inspire and engage audiences.
       </p>
     </div>
   </section>
@@ -40,11 +42,13 @@ Portfolio
     <h2>Contact Me</h2>
     <p>📞 8969385356</p>
     <p>📧 joshuaamos137@gmail.com</p>
-    
+    </p>@the_chief_08</p>
   </section>
 
   <footer>
     <p>&copy; 2025 Joshua Abhijeet Amos. All rights reserved.</p>
+    
+      
   </footer>
 </body>
 </html>
