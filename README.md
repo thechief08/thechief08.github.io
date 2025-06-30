@@ -42,8 +42,11 @@ Portfolio
     <h2>Contact Me</h2>
     <p>📞 8969385356</p>
     <p>📧 joshuaamos137@gmail.com</p>
-    @the_chief_08
+https://www.instagram.com/the_chief_08/
   </section>
+
+
+  
 
   <footer>
     <p>&copy; 2025 Joshua Abhijeet Amos. All rights reserved.</p>
