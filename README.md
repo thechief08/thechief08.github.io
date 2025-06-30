@@ -1,6 +1,6 @@
 # thechief08.github.io
 Portfolio 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -42,7 +42,7 @@ Portfolio
     <h2>Contact Me</h2>
     <p>📞 8969385356</p>
     <p>📧 joshuaamos137@gmail.com</p>
-    </p>@the_chief_08</p>
+    @the_chief_08
   </section>
 
   <footer>
