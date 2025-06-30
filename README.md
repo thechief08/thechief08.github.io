@@ -40,6 +40,7 @@ Portfolio
     <h2>Contact Me</h2>
     <p>📞 8969385356</p>
     <p>📧 joshuaamos137@gmail.com</p>
+    
   </section>
 
   <footer>
